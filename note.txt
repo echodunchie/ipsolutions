@@ -1,0 +1,28 @@
+SOphos- 
+
+XG
+UTM9
+Intercept X
+Access Point
+RED
+Encription
+
+Kaspersky - KATA/EDR
+
+GIGAMON - GigaVUE
+
+Extreme Networks - 
+Switch
+ACcess Point
+Routers
+
+Sangfor
+HCI
+WANO
+IAM
+NGAF
+
+
+GFI - https://www.gfi.com/products-and-solutions/network-security-solutions/gfi-languard
+
+Accunetix - https://www.acunetix.com/vulnerability-scanner/
